@@ -1,0 +1,10 @@
+cache:
+ local: ~/Documents/Carthage
+
+currentMap:
+  - note-deps:
+    - name: SwiftGRPC
+    - name: BoringSSL-GRPC
+    - name: nanopb
+    - name: gRPC-Core
+    - name: SwiftProtobuf
