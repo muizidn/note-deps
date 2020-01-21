@@ -4,7 +4,7 @@ cache:
 currentMap:
   - note-deps:
     - name: SwiftGRPC
-    - name: BoringSSL-GRPC
+    - name: openssl_grpc # BoringSSL-GRPC
     - name: nanopb
-    - name: gRPC-Core
+    - name: grpc # gRPC-Core
     - name: SwiftProtobuf
